@@ -1,0 +1,6 @@
+#echo "# LeptirProject" >> README.md
+#git init
+#git add README.md
+#git commit -m "first commit"
+#git remote add origin https://MichaelGogeshvili:qwer67lol98@github.com/MichaelGogeshvili/LeptirProject.git
+#git push -u origin master
